@@ -40,3 +40,4 @@ console.log("Nice to meet you!")
 :sparkles: Vue-Film https://github.com/lsd91dev/vue-film <details><summary>Read more!</summary><p> API Rest to search and write reviews for movies. Tools: 
 - NodeJS <br> - MongoDB <br> - VueJS <br> - HTML <br> - Bootstrap Vue</p></details>
 
+## Thank you for visit my personal repository and see u soon! :wave: :wave:
