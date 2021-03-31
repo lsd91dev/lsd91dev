@@ -11,7 +11,7 @@ console.log("Nice to meet you!")
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
-## 🛠 &nbsp;What about my skills?
+## 🛠 What about my skills?
 
   At present I know this: 
 
@@ -33,7 +33,7 @@ console.log("Nice to meet you!")
 
   :thumbsup: But you can follow me and watch my progress! 
   
-  ## 🔭&nbsp; Here are some of my projects:
+  ## 🔭 Here are some of my projects:
   
 :sparkles: Vuecinillas https://lsd91dev-vuecinillas-4bacf.web.app/ <details><summary>Read more!</summary><p> API Rest to search for cooking recipes. <b>Tools:</b> <br> - VueJS <br> - HTML <br> - CSS </p></details>
 
