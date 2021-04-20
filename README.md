@@ -7,7 +7,7 @@
 ```javascript
 console.log("Nice to meet you!")
 ```
- My name is <b> Lidia Sánchez </b> and I am web junior developer for JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>. One of my goals is to keep improving my skills and to be better every day, that's why I’m learning React and TypeScript!.
+ My name is <b> Lidia Sánchez </b> and I am web junior developer for JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>. One of my goals is to keep improving my skills and to be better every day, that's why I’m learning Angular and TypeScript!.
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
