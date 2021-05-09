@@ -36,9 +36,12 @@ console.log("Nice to meet you!")
   
   ## 🔭 Here are some of my projects:
   
-:sparkles: Vuecinillas https://lsd91dev-vuecinillas-4bacf.web.app/ <details><summary>Read more!</summary><p> API Rest to search for cooking recipes. <b>Tools:</b> <br> - VueJS <br> - HTML <br> - CSS </p></details>
+:sparkles: Vuecinillas https://lsd91dev-vuecinillas-4bacf.web.app/ <details><summary>Read more!</summary><p> API Rest to search for cooking recipes. <b>Tools:</b> <br> - VueJS <br> - HTML <br> - CSS3 </p></details>
 
 :sparkles: Vue-Film https://github.com/lsd91dev/vue-film <details><summary>Read more!</summary><p> API Rest to search and write reviews for movies. Tools: 
 - NodeJS <br> - MongoDB <br> - VueJS <br> - HTML <br> - Bootstrap Vue</p></details>
+
+:sparkles: Mitodo https://mitodo-bd374.web.app/mitodo <details><summary>Read more!</summary><p> API Rest to create and store your duties. Tools: 
+- Angular 10 <br> - Firebase <br> - CSS3 <br> - HTML <br> - Bootstrap Vue</p></details>
 
 ## Thank you for visit my personal repository and see u soon! :wave: :wave:
