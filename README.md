@@ -36,7 +36,7 @@ console.log("Nice to meet you!")
   
   ## 🔭 Here are some of my projects:
   
- :sparkles: Pokexapi https://pokexapi-816d5.web.app <details><summary>Read more!</summary><p> API to search pokemon information from pokéapi. <b>Tools:</b> <br> - Angular 10 <br> - HTML <br> - Bootstrap </p></details>
+ :sparkles: Pokexapi https://pokexapi-816d5.web.app <br> Repository: https://github.com/lsd91dev/pokexapi <br> <details><summary>Read more!</summary><p> API to search pokemon information from pokéapi. <b>Tools:</b> <br> - Angular 10 <br> - HTML <br> - Bootstrap </p></details>
   
 :sparkles: Vuecinillas https://lsd91dev-vuecinillas-4bacf.web.app/ <details><summary>Read more!</summary><p> API Rest to search for cooking recipes. <b>Tools:</b> <br> - VueJS <br> - HTML <br> - CSS3 </p></details>
 
